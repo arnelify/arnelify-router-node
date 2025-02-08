@@ -1,6 +1,6 @@
 {
   "name": "arnelify-router",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "description": "Minimalistic NodeJS (Bun) addon which is a router written in C and C++.",
   "keywords": [
     "arnelify",
