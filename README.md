@@ -1,6 +1,6 @@
 <img src="https://static.wikia.nocookie.net/arnelify/images/c/c8/Arnelify-logo-2024.png/revision/latest?cb=20240701012515" style="width:336px;" alt="Arnelify Logo" />
 
-![Arnelify Router for NodeJS](https://img.shields.io/badge/Arnelify%20Server%20for%20NodeJS-0.5.5-yellow) ![C++](https://img.shields.io/badge/C++-2b-red) ![G++](https://img.shields.io/badge/G++-14.2.0-blue) ![NodeJS](https://img.shields.io/badge/NodeJS-22.13.1-green) ![Bun](https://img.shields.io/badge/Bun-1.2.0-green)
+![Arnelify Router for NodeJS](https://img.shields.io/badge/Arnelify%20Server%20for%20NodeJS-0.5.8-yellow) ![C++](https://img.shields.io/badge/C++-2b-red) ![G++](https://img.shields.io/badge/G++-14.2.0-blue) ![NodeJS](https://img.shields.io/badge/NodeJS-22.13.1-green) ![Bun](https://img.shields.io/badge/Bun-1.2.0-green)
 
 ## 🚀 About
 **Arnelify® Router for NodeJS** - is a minimalistic NodeJS (Bun) addon which is a router written in C and C++.
@@ -55,7 +55,7 @@ Join us to help improve this software, fix bugs or implement new functionality. 
 
 
 ## ⭐ Release Notes
-Version 0.5.5 - NodeJS (Bun) Addon
+Version 0.5.8 - NodeJS (Bun) Addon
 
 We are excited to introduce the Arnelify Router for NodeJS (Bun) addon! Please note that this version is raw and still in active development.
 
@@ -65,7 +65,7 @@ Change log:
 * NodeJS (Bun) addon
 * FFI Support
 
-Please use this version with caution, as it may contain bugs and unfinished features. We are actively working on improving and expanding the server's capabilities, and we welcome your feedback and suggestions.
+Please use this version with caution, as it may contain bugs and unfinished features. We are actively working on improving and expanding the router's capabilities, and we welcome your feedback and suggestions.
 
 ## 🔗 Mentioned
 
